@@ -1,0 +1,20 @@
+babel nodemon setup
+https://gist.github.com/samuele-artuso/d39dc04650f9455e34549841a8270c82
+
+https://github.com/kmagiera/babel-watch
+
+https://github.com/babel/example-node-server
+
+https://babeljs.io/docs/setup/#installation
+
+"start": "node ./bin/www"
+
+socketio
+https://stackoverflow.com/questions/24609991/using-socket-io-in-express-4-and-express-generators-bin-www
+https://gist.github.com/alfonsomga/8c7f25bcc5ddbc1b02dee013c268dda4
+https://github.com/expressjs/generator/issues/45
+https://github.com/expressjs/generator/issues/45
+
+https://medium.com/@nohkachi/the-importance-of-documentation-or-how-i-discovered-how-to-share-express-sessions-with-socket-io-d8d2b6bd42e5
+https://www.codeproject.com/Articles/382561/Session-Management-in-Nodejs
+http://www.scotthasbrouck.com/blog/2016/3/18/passportjs-express-session-with-sockeio
